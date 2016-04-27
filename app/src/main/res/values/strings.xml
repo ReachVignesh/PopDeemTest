@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PopDeem Test</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="other_fragment_text">Other Fragment</string>
+    <string name="google_app_id">839359806985</string>
+    <string name="facebook_app_id">370441856449418</string>
+    <string name="twitter_consumer_secret">rHTmAWpw1gPCoCy7AzA43j9eMqb2GJb24qcMfIHeOvepARFsmt</string>
+    <string name="twitter_consumer_key">rAzr7Tn0wOVBs6Oij13AYecVA</string>
+
+
+
+
+</resources>
