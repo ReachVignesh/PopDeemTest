@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="trans70">#55ffffff</color>
+    <color name="background">#772c28</color>
+    <color name="white">#ffffff</color>
+    <color name="title_color">#82413d</color>
+    <color name="btnBg">#444444</color>
+    <color name="error">#ff0000</color>
+    <color name="grey">#5f5f5f</color>
+    <color name="black">#000000</color>
+    <color name="button_background">#419edd</color>
+    <color name="order_row_value">#ffffff</color>
+    <color name="transparent">#ffefecf4</color>
+    
+</resources>

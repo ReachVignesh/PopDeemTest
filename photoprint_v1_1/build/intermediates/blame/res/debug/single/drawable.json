@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/drawable/ab_background_textured_dark.xml",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/drawable/ab_background_textured_dark.xml"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/drawable/btn_free.xml",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/drawable/btn_free.xml"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/drawable/progress_horizontal_dark.xml",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/drawable/progress_horizontal_dark.xml"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/drawable/on_focus_checkbox.xml",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/drawable/on_focus_checkbox.xml"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/drawable/btn_about_us.xml",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/drawable/btn_about_us.xml"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/drawable/b.jpg",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/drawable/b.jpg"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/drawable/spinner_background_ab_dark.xml",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/drawable/spinner_background_ab_dark.xml"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/drawable/btn_pay.xml",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/drawable/btn_pay.xml"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/drawable/d.jpg",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/drawable/d.jpg"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/drawable/facebook_icon.png",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/drawable/facebook_icon.png"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/drawable/ic_action_select_all.png",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/drawable/ic_action_select_all.png"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/drawable/checkout_cart.png",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/drawable/checkout_cart.png"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/drawable/camera.png",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/drawable/camera.png"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/drawable/a.jpg",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/drawable/a.jpg"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/drawable/tab_indicator_ab_dark.xml",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/drawable/tab_indicator_ab_dark.xml"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/drawable/selectable_background_dark.xml",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/drawable/selectable_background_dark.xml"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/drawable/btn_register.xml",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/drawable/btn_register.xml"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/drawable/button_shape.xml",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/drawable/button_shape.xml"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/drawable/btn_social.xml",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/drawable/btn_social.xml"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/drawable/btn_login.xml",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/drawable/btn_login.xml"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/drawable/btn_device.xml",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/drawable/btn_device.xml"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/drawable/button_background.xml",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/drawable/button_background.xml"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/drawable/ic_action_user.png",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/drawable/ic_action_user.png"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/drawable/selector.xml",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/drawable/selector.xml"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/drawable/ic_launcher.png",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/drawable/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/drawable/btn_sel.xml",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/drawable/btn_sel.xml"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/drawable/cart.png",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/drawable/cart.png"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/drawable/btn_cab_done_dark.xml",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/drawable/btn_cab_done_dark.xml"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/drawable/c.jpg",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/drawable/c.jpg"
+    }
+]

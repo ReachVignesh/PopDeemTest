@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/drawable-ru-hdpi-v4/authorize.png",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/drawable-ru-hdpi/authorize.png"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/drawable-ru-hdpi-v4/btn_device_clicked.png",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/drawable-ru-hdpi/btn_device_clicked.png"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/drawable-ru-hdpi-v4/btn_device_default.png",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/drawable-ru-hdpi/btn_device_default.png"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/drawable-ru-hdpi-v4/btn_social_clicked.png",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/drawable-ru-hdpi/btn_social_clicked.png"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/drawable-ru-hdpi-v4/btn_social_default.png",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/drawable-ru-hdpi/btn_social_default.png"
+    }
+]

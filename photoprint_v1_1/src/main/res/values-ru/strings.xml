@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="about_title">О нас</string>
+    <string name="btn_about_us">О нас</string>
+    <string name="btn_login">Вход</string>
+    <string name="about_text">Текст о нас</string>
+    <string name="btn_printandpay">Платная печать</string>
+    <string name="btn_printforfree">Бесплатная печать</string>
+    <string name="btn_register">Регистрация</string>
+    <string name="btn_senddetail">Отправить данные</string>
+    <string name="btn_senddetails">Отправить данные</string>
+    <string name="call_us">Позвони нам</string>
+    <string name="email_us">Напиши нам письмо</string>
+    <string name="or">Или</string>
+    <string name="order_confirmation">Проверьте Вашу входящую почту -\n мы выслали Вам письмо с подтверждением\n Вашего заказа.</string>
+    <string name="text_signin">Вход</string>
+    <string name="text_signout">Выход</string>
+    <string name="btn_ok">Bыбрать</string>
+    <string name="payment_method">Метод оплаты</string>
+    <string name="authorise_sn">Авторизоваться в соц сетях</string>
+    <string name="print_from_device">Печать с устройства</string>
+    <string name="print_from_sn">Печать из соц сетей</string>
+    <string name="check_out">Формаофорления заказа</string>
+    <string name="address_form">Форма доставки</string>
+    <string name="name">Имя</string>
+    <string name="region">Область</string>
+    <string name="city">Город</string>
+    <string name="street">Улица</string>
+    <string name="house_no">Номер дома</string>
+    <string name="apart_no">Номер квартиры</string>
+    <string name="delivery">Дотавка </string>
+    <string name="price">К оплате:</string>
+    <string name="comment">Комментарии на обороте</string>
+    <string name="albumMsg">Пожалуйста, выберите один из своих альбомов</string>
+    <string name="photoMsg">Пожалуйста, выберите изображения для печати</string>
+    <string name="select">Выбрать</string>
+    <string name="forgot_pwd">Забыли пароль</string>
+    <string name="reset_pwd">Сброс пароля</string>
+    <string name="pwd">Пароль</string>
+    <string name="app_exit">Вы уверены что хотите выйти?</string>
+    <string name="yes">ДА</string>
+    <string name="no">НЕТ</string>
+    <string name="exit">Выход</string>
+    <string name="albumList">Пожалуйста, выберите альбом</string>
+    <string name="albums">Альбомы</string>
+    <string name="photos">Фотографии</string>
+    <string name="device_gallery">Галерея устройства</string>
+    <string name="select_sn">Выберите соц сети</string>
+    <string name="loading">Загрузка </string>
+    <string name="later">ОК. Может быть позже?</string>
+    <string name="on_progress">В процессе</string>
+    <string name="fill_address_form">Пожалуйста, заполните форму доставки</string>
+    <string name="generating">Создание заказа</string>
+    <string name="uploading_file">Пожалуйста, подождите. Идет загрузка файла </string>
+    <string name="confirm">Подтверждение</string>
+    <string name="confirm_msg">Сообщение с подтверждением</string>
+    <string name="go_back">Вернитесь назад для создания другого заказа</string>
+    <string name="free_toast">Пожалуйста выберите от 5 до 25 изображений</string>
+    <string name="paid_toast">Не выбрано ни одного изображения</string>
+    <string name="register">Регистрация</string>
+    <string name="already_reg">Пользователь уже \n зарегистрирован. Войдите!</string>
+    <string name="confirm_pwd">Подтвердите пароль</string>
+    <string name="phone">Номер телефона</string>
+    <string name="ads">(Без рекламы на обороте)</string>
+    <string name="Vk">ВКонтакте</string>
+    <string name="order_success">Заказать Размещено Успешно</string>
+    <string name="tut_skip">Я готов напечатать мои фото</string>
+    <string name="web_link">www.photoclick.kz</string>
+    <string name="reg_error">Пользователь с таким именем уже существует</string>
+    <string name="not_connected">Нет подключения к сети</string>
+    <string name="incorrect_user">Неверное имя пользователя или Пароль</string>
+    <string name="phone_number">Номер телефона</string>
+
+    <string-array name="menu_array">
+    <item>Галерея устройства</item>
+    <item>Facebook</item>
+    <item>Vk</item>
+    <item>Cart</item>
+    <item>Logout</item>
+    </string-array>
+
+
+
+
+</resources>

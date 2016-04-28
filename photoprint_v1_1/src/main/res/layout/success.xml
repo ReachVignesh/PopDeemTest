@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="@drawable/image"
+            android:orientation="vertical">
+
+        <RelativeLayout
+                android:paddingTop="15.0dip"
+                android:paddingBottom="20.0dip"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#6fdd6275"
+                android:layout_centerInParent="true">
+
+            <TextView
+                    android:textSize="25.0sp"
+                    android:textColor="@color/error"
+                    android:gravity="center"
+                    android:id="@+id/lblAboutTitle"
+                    android:layout_width="210dip"
+                    android:layout_height="wrap_content"
+                    android:text="@string/confirm_msg"
+                    android:layout_centerHorizontal="true" />
+            <TextView
+                    android:textSize="18.0sp"
+                    android:gravity="center"
+                    android:autoLink="web"
+                    android:id="@+id/easyprintLink"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5.0dip"
+                    android:text="@string/client_link"
+                    android:layout_below="@+id/lblAboutTitle"
+                    android:layout_centerHorizontal="true" android:visibility="gone"/>
+            <TextView
+                    android:textColor="#FF000000"
+                    android:gravity="center"
+                    android:id="@+id/lblVersionName"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5.0dip"
+                    android:text="@string/version_name"
+                    android:layout_below="@+id/easyprintLink"
+                    android:layout_centerHorizontal="true"
+                    android:visibility="gone"/>
+            <TextView
+                    android:textColor="@color/order_row_value"
+                    android:gravity="center"
+                    android:id="@+id/txtAboutText"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5.0dip"
+                    android:layout_marginTop="18.0dip"
+                    android:layout_marginRight="5.0dip"
+                    android:layout_marginBottom="1.0dip"
+                    android:text="@string/order_confirmation"
+                    android:layout_below="@+id/lblVersionName"
+                    android:layout_centerHorizontal="true" />
+            <TextView
+                    android:textColor="#fffd7324"
+                    android:gravity="center"
+                    android:id="@+id/lblCallUs"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/call_us"
+                    android:layout_below="@+id/txtAboutText"
+                    android:layout_centerHorizontal="true"
+                    android:visibility="gone"/>
+            <TextView
+                    android:gravity="center"
+                    android:autoLink="phone"
+                    android:id="@+id/txtAboutPhones"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5.0dip"
+                    android:text="@string/mobile_no"
+                    android:layout_below="@+id/lblCallUs"
+                    android:layout_centerHorizontal="true" android:visibility="gone"/>
+            <TextView
+                    android:textColor="@color/grey"
+                    android:gravity="center"
+                    android:id="@+id/lblOr"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5.0dip"
+                    android:text="@string/or"
+                    android:layout_below="@+id/txtAboutPhones"
+                    android:layout_centerHorizontal="true" />
+            <Button
+                    android:textColor="@color/order_row_value"
+                    android:gravity="center"
+                    android:id="@+id/btnBackToDashboard"
+                    android:background="@drawable/btn_sel"
+                    android:layout_width="240dip"
+                    android:layout_height="80dip"
+                    android:layout_marginLeft="12.0dip"
+                    android:layout_marginTop="5.0dip"
+                    android:layout_marginRight="12.0dip"
+                    android:text="@string/go_back"
+                    android:layout_below="@+id/lblOr"
+                    android:layout_centerInParent="true"/>
+        </RelativeLayout>
+ </RelativeLayout>

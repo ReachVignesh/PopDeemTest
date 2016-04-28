@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/stub_image.png",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/drawable-xxhdpi/stub_image.png"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ab_stacked_solid_dark.9.png",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/drawable-xxhdpi/ab_stacked_solid_dark.9.png"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ab_transparent_dark.9.png",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/drawable-xxhdpi/ab_transparent_dark.9.png"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/cab_background_bottom_dark.9.png",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/drawable-xxhdpi/cab_background_bottom_dark.9.png"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/btn_cab_done_pressed_dark.9.png",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/drawable-xxhdpi/btn_cab_done_pressed_dark.9.png"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/cab_background_top_dark.9.png",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/drawable-xxhdpi/cab_background_top_dark.9.png"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/spinner_ab_focused_dark.9.png",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/drawable-xxhdpi/spinner_ab_focused_dark.9.png"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ab_solid_dark.9.png",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/drawable-xxhdpi/ab_solid_dark.9.png"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/tab_selected_dark.9.png",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/drawable-xxhdpi/tab_selected_dark.9.png"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/tab_unselected_pressed_dark.9.png",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/drawable-xxhdpi/tab_unselected_pressed_dark.9.png"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/list_pressed_dark.9.png",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/drawable-xxhdpi/list_pressed_dark.9.png"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/progress_secondary_dark.9.png",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/drawable-xxhdpi/progress_secondary_dark.9.png"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/menu_dropdown_panel_dark.9.png",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/drawable-xxhdpi/menu_dropdown_panel_dark.9.png"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/tab_unselected_dark.9.png",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/drawable-xxhdpi/tab_unselected_dark.9.png"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/spinner_ab_default_dark.9.png",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/drawable-xxhdpi/spinner_ab_default_dark.9.png"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/tab_selected_pressed_dark.9.png",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/drawable-xxhdpi/tab_selected_pressed_dark.9.png"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/btn_cab_done_focused_dark.9.png",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/drawable-xxhdpi/btn_cab_done_focused_dark.9.png"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/tab_selected_focused_dark.9.png",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/drawable-xxhdpi/tab_selected_focused_dark.9.png"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/list_focused_dark.9.png",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/drawable-xxhdpi/list_focused_dark.9.png"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_launcher.png",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/tab_unselected_focused_dark.9.png",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/drawable-xxhdpi/tab_unselected_focused_dark.9.png"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/progress_primary_dark.9.png",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/drawable-xxhdpi/progress_primary_dark.9.png"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/btn_cab_done_default_dark.9.png",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/drawable-xxhdpi/btn_cab_done_default_dark.9.png"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_action_new.png",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/drawable-xxhdpi/ic_action_new.png"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/progress_bg_dark.9.png",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/drawable-xxhdpi/progress_bg_dark.9.png"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/spinner_ab_pressed_dark.9.png",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/drawable-xxhdpi/spinner_ab_pressed_dark.9.png"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ab_texture_tile_dark.png",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/drawable-xxhdpi/ab_texture_tile_dark.png"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/spinner_ab_disabled_dark.9.png",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/drawable-xxhdpi/spinner_ab_disabled_dark.9.png"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ab_bottom_solid_dark.9.png",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/drawable-xxhdpi/ab_bottom_solid_dark.9.png"
+    }
+]

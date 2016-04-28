@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+                xmlns:android="http://schemas.android.com/apk/res/android"
+                android:background="@drawable/image">
+
+    <RelativeLayout
+            android:paddingTop="15.0dip"
+            android:paddingBottom="20.0dip"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#66bbbbc5" android:layout_centerInParent="true">
+
+        <TextView
+                android:textSize="18.0sp"
+                android:textColor="#FF000000"
+                android:gravity="center"
+                android:id="@+id/lblAboutTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/about_title"
+                android:layout_centerHorizontal="true" android:visibility="gone"/>
+        <TextView
+                android:textSize="18.0sp"
+                android:gravity="center"
+                android:autoLink="web"
+                android:id="@+id/easyprintLink"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5.0dip"
+                android:text="@string/client_link"
+                android:layout_below="@+id/lblAboutTitle"
+                android:layout_centerHorizontal="true" android:visibility="gone"/>
+        <TextView
+                android:textSize="18.0sp"
+                android:gravity="center"
+                android:autoLink="web"
+                android:id="@+id/siteLink"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5.0dip"
+                android:text="www.photoclick.kz"
+                android:layout_below="@+id/easyprintLink"
+                android:layout_centerHorizontal="true" android:textColor="#bbf52b10"/>
+        <TextView
+                android:textColor="#FF000000"
+                android:gravity="center"
+                android:id="@+id/lblVersionName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5.0dip"
+                android:text="@string/version_name"
+                android:layout_below="@+id/siteLink"
+                android:layout_centerHorizontal="true" />
+        <TextView
+                android:textColor="#FF000000"
+                android:gravity="center"
+                android:id="@+id/txtAboutText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="32.0dip"
+                android:layout_marginTop="18.0dip"
+                android:layout_marginRight="32.0dip"
+                android:layout_marginBottom="18.0dip"
+                android:text="@string/about_text"
+                android:layout_below="@+id/lblVersionName"
+                android:layout_centerHorizontal="true" android:visibility="gone"/>
+        <TextView
+                android:textColor="#fffd7324"
+                android:gravity="center"
+                android:id="@+id/lblCallUs"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/call_us"
+                android:layout_below="@+id/txtAboutText"
+                android:layout_centerHorizontal="true" />
+        <TextView
+                android:gravity="center"
+                android:autoLink="phone"
+                android:id="@+id/txtAboutPhones"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5.0dip"
+                android:text="+7 747 970 9704"
+                android:layout_below="@+id/lblCallUs"
+                android:layout_centerHorizontal="true" />
+        <TextView
+                android:textColor="#FF000000"
+                android:gravity="center"
+                android:id="@+id/lblOr"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5.0dip"
+                android:text="@string/or"
+                android:layout_below="@+id/txtAboutPhones"
+                android:layout_centerHorizontal="true" />
+        <Button
+                android:textColor="#FF000000"
+                android:gravity="center"
+                android:id="@+id/btnEmailUs"
+                android:background="@drawable/btn_sel"
+                android:layout_width="190dip"
+                android:layout_height="30dip"
+                android:layout_marginLeft="32.0dip"
+                android:layout_marginTop="5.0dip"
+                android:layout_marginRight="32.0dip"
+                android:text="@string/email_us"
+                android:layout_below="@+id/lblOr" android:layout_centerInParent="true" style="@style/btn"/>
+    </RelativeLayout>
+    <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15.0dip"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true" android:visibility="gone">
+        <TextView
+                android:textColor="@color/grey"
+                android:gravity="right|center"
+                android:id="@+id/lblDevelopedBy"
+                android:paddingTop="5.0dip"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/developed_by"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true" />
+        <ImageButton
+                android:id="@+id/btnInnerGlow"
+                android:background="@null"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10.0dip"
+                android:src="@drawable/innerglow_logo"
+                android:layout_toRightOf="@+id/lblDevelopedBy"
+                android:layout_centerVertical="true"
+                android:contentDescription="@string/app_name"
+                android:clickable="false" android:visibility="gone"/>
+    </RelativeLayout>
+</RelativeLayout>

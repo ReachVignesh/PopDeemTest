@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="menu_array">
+        <item>Device Gallery</item>
+        <item>Facebook</item>
+        <item>Vk</item>
+        <!--<item>Order History</item>-->
+        <item>Cart</item>
+        <item>Logout</item>
+    </string-array>
+    <array name="menu_icons">
+        <item>@drawable/ic_action_select_all</item>	<!-- My Gallery -->
+        <item>@drawable/facebook_icon</item>		<!-- Facebook -->
+        <item>@drawable/ic_action_user</item>		<!-- User -->
+        <!--<item>@drawable/ic_action_new</item>		 Order History	 -->
+        <item>@drawable/cart</item>					<!-- Cart -->
+        <item>@drawable/ic_action_new</item>		<!-- Logout -->
+    </array>
+    <string-array name="sizes">
+	    <item>3.25 x 4.5</item>
+	    <item>3.5 x 5</item>
+	    <item>3.5 x 8.1</item>
+	    <item>3.9 x 5.8</item>
+	    <item>4.7 x 9.3</item>
+	    <item>5.8 x 7.9</item>
+	    <item>4 x 6</item>
+	</string-array>
+    <color name="background">#772c28</color>
+    <color name="black">#000000</color>
+    <color name="btnBg">#444444</color>
+    <color name="button_background">#419edd</color>
+    <color name="error">#ff0000</color>
+    <color name="grey">#5f5f5f</color>
+    <color name="order_row_value">#ffffff</color>
+    <color name="title_color">#82413d</color>
+    <color name="trans70">#55ffffff</color>
+    <color name="transparent">#ffefecf4</color>
+    <color name="white">#ffffff</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="Vk">VKontakte</string>
+    <string name="about_text">Coming Soon</string>
+    <string name="about_title">About Us</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_websearch">Web search</string>
+    <string name="add_more">Add More</string>
+    <string name="address_form">Address Form</string>
+    <string name="ads">(No advertisements in the opposite side)</string>
+    <string name="albumList">Please select an album</string>
+    <string name="albumMsg">Please select one of your albums</string>
+    <string name="albums">Albums</string>
+    <string name="already_reg">Already Registered. Login Me!</string>
+    <string name="apart_no">Apartment Number </string>
+    <string name="app_exit">Are you sure you want to exit?</string>
+    <string name="app_id">236606583195071</string>
+    <string name="app_name">Photo Click</string>
+    <string name="app_not_available">Sorry, there\'s no web browser available</string>
+    <string name="application_id">236606583195071</string>
+    <string name="authorise_sn">Authorise in Social Networks</string>
+    <string name="btnLogin">Login</string>
+    <string name="btnSelect">Select</string>
+    <string name="btn_about_us">About Us</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_ok">Select</string>
+    <string name="btn_pick">Pick From Gallery</string>
+    <string name="btn_pick_mul">Select from Gallery</string>
+    <string name="btn_printandpay">Print and Pay</string>
+    <string name="btn_printforfree">Print for Free</string>
+    <string name="btn_register">Register</string>
+    <string name="btn_senddetail">Send detail</string>
+    <string name="btn_senddetails">Send details</string>
+    <string name="call_us">Call Us</string>
+    <string name="camera">Camera</string>
+    <string name="cart">Cart</string>
+    <string name="check_out">Check out form</string>
+    <string name="circle_title">Tutorial Activity</string>
+    <string name="city">City</string>
+    <string name="client_link">© My-Apps.kz </string>
+    <string name="comment">Comment</string>
+    <string name="confirm">Confirmation</string>
+    <string name="confirm_msg">Confirmation Message</string>
+    <string name="confirm_pwd">Confirm Password</string>
+    <string name="contact_num">Contact Number</string>
+    <string name="country">Country</string>
+    <string name="date">Date: </string>
+    <string name="deleteAll">Delete All</string>
+    <string name="delivery">Delivery </string>
+    <string name="desc_list_item_icon">Icons</string>
+    <string name="developed_by">Developed By</string>
+    <string name="device_gallery">Device Gallery</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="email">Email</string>
+    <string name="email_us">Email Us</string>
+    <string name="exit">Exit</string>
+    <string name="fill_address_form">Please fill Address form</string>
+    <string name="forgot_pwd">Forgot Password</string>
+    <string name="free_toast">Please select Min 5 &amp; Max 25 images</string>
+    <string name="fullName">Full Name</string>
+    <string name="generating">Generating order</string>
+    <string name="go_back">Go back to place another order</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="house_no">House Number</string>
+    <string name="imgDesc">Photo print Images</string>
+    <string name="imgQty">No of Images: </string>
+    <string name="incorrect_user">Incorrect Username or Password</string>
+    <string name="invoice">Invoice: </string>
+    <string name="later">OK.May be Later?</string>
+    <string name="loading">Loading</string>
+    <string name="mobile_no">+77479709704</string>
+    <string name="myself">Myself</string>
+    <string name="name">Name</string>
+    <string name="no">No</string>
+    <string name="not_connected">Not connected to network</string>
+    <string name="on_progress">On Progress…</string>
+    <string name="one">1</string>
+    <string name="or">Or</string>
+    <string name="order_confirmation">Please check your inbox for\n confirmation email and confirm your order.</string>
+    <string name="order_success">Order Placed Successfully</string>
+    <string name="paid_toast">Not a single image selected</string>
+    <string name="payment_method">Payment method</string>
+    <string name="phone">Phone Number</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="photoMsg">Please choose images to print</string>
+    <string name="photos">Photos</string>
+    <string name="piece">Piece/s</string>
+    <string name="price">Price: </string>
+    <string name="price1">5</string>
+    <string name="price2">10</string>
+    <string name="price3">15</string>
+    <string name="price4">20</string>
+    <string name="price5">25</string>
+    <string name="price6">30</string>
+    <string name="priceTag">Price</string>
+    <string name="print_from_device">Print from Device</string>
+    <string name="print_from_sn">Print from Social Network</string>
+    <string name="pwd">Password</string>
+    <string name="qty">Qty: </string>
+    <string name="reg_error">User with this email already exists</string>
+    <string name="region">Region</string>
+    <string name="register">Register</string>
+    <string name="reset_pwd">Reset Password</string>
+    <string name="select">Select</string>
+    <string name="select_sn">Select Social Network</string>
+    <string name="size">Size: </string>
+    <string name="size1">3.25 x 4.5</string>
+    <string name="size2">3.5 x 8.1</string>
+    <string name="size3">3.9 x 5.8</string>
+    <string name="size4">4.7 x 9.3</string>
+    <string name="size5">5.8 x 7.9</string>
+    <string name="size6">4 x 6</string>
+    <string name="sizeHere">Sizes Here</string>
+    <string name="state">State</string>
+    <string name="street">Street</string>
+    <string name="submit">Submit</string>
+    <string name="text_signin">Log In</string>
+    <string name="text_signout">Log Out</string>
+    <string name="tut_skip">I\'m ready to print my Photos</string>
+    <string name="un">Username</string>
+    <string name="uploadMsg">Please choose images to print</string>
+    <string name="uploading_file">Please wait uploading file</string>
+    <string name="username">Username</string>
+    <string name="version_name">Version 1.0</string>
+    <string name="viewImg">View Images: </string>
+    <string name="web_link">photoclick.kz</string>
+    <string name="yes">Yes</string>
+    <style name="ActionBar.Solid.Dark" parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">@drawable/ab_solid_dark</item>
+        <item name="android:backgroundStacked">@drawable/ab_stacked_solid_dark</item>
+        <item name="android:backgroundSplit">@drawable/ab_bottom_solid_dark</item>
+        <item name="android:progressBarStyle">@style/ProgressBar.Dark</item>
+    </style>
+    <style name="ActionBar.Transparent.Dark" parent="@android:style/Widget.Holo.ActionBar">
+        <item name="android:background">@drawable/ab_transparent_dark</item>
+        <item name="android:progressBarStyle">@style/ProgressBar.Dark</item>
+    </style>
+    <style name="ActionBarTabStyle.Dark" parent="@android:style/Widget.Holo.ActionBar.TabView">
+        <item name="android:background">@drawable/tab_indicator_ab_dark</item>
+    </style>
+    <style name="ActionButton.CloseMode.Dark" parent="@android:style/Widget.Holo.ActionButton.CloseMode">
+        <item name="android:background">@drawable/btn_cab_done_dark</item>
+    </style>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="DropDownListView.Dark" parent="@android:style/Widget.Holo.ListView.DropDown">
+        <item name="android:listSelector">@drawable/selectable_background_dark</item>
+    </style>
+    <style name="DropDownNav.Dark" parent="@android:style/Widget.Holo.Spinner">
+        <item name="android:background">@drawable/spinner_background_ab_dark</item>
+        <item name="android:popupBackground">@drawable/menu_dropdown_panel_dark</item>
+        <item name="android:dropDownSelector">@drawable/selectable_background_dark</item>
+    </style>
+    <style name="PopupMenu.Dark" parent="@android:style/Widget.Holo.ListPopupWindow">
+        <item name="android:popupBackground">@drawable/menu_dropdown_panel_dark</item>	
+    </style>
+    <style name="ProgressBar.Dark" parent="@android:style/Widget.Holo.ProgressBar.Horizontal">
+        <item name="android:progressDrawable">@drawable/progress_horizontal_dark</item>
+    </style>
+    <style name="Theme.Dark" parent="@android:style/Theme.Holo.Light.DarkActionBar">
+        <item name="android:actionBarItemBackground">@drawable/selectable_background_dark</item>
+        <item name="android:popupMenuStyle">@style/PopupMenu.Dark</item>
+        <item name="android:dropDownListViewStyle">@style/DropDownListView.Dark</item>
+        <item name="android:actionBarTabStyle">@style/ActionBarTabStyle.Dark</item>
+        <item name="android:actionDropDownStyle">@style/DropDownNav.Dark</item>
+        <item name="android:actionBarStyle">@style/ActionBar.Solid.Dark</item>
+        <item name="android:actionModeBackground">@drawable/cab_background_top_dark</item>
+        <item name="android:actionModeSplitBackground">@drawable/cab_background_bottom_dark</item>
+        <item name="android:actionModeCloseButtonStyle">@style/ActionButton.CloseMode.Dark</item>
+        
+                <!-- Light.DarkActionBar specific -->
+        <item name="android:actionBarWidgetTheme">@style/Theme.Dark.Widget</item>
+
+    </style>
+    <style name="Theme.Dark.Widget" parent="@android:style/Theme.Holo">
+        <item name="android:popupMenuStyle">@style/PopupMenu.Dark</item>
+        <item name="android:dropDownListViewStyle">@style/DropDownListView.Dark</item>
+    </style>
+    <style name="btn">
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="title_bar">
+        <item name="android:textColor">#d9f3ff</item>
+        <item name="android:textSize">22sp</item>
+    </style>
+</resources>

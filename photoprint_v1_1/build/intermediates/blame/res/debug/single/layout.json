@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/layout/layout_fullscreen_image.xml",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/layout/layout_fullscreen_image.xml"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/layout/activity_welcome.xml",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/layout/activity_forgot_pwd.xml",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/layout/activity_forgot_pwd.xml"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/layout/image_item.xml",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/layout/image_item.xml"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/layout/drawer_list_item.xml",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/layout/drawer_list_item.xml"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/layout/viewpager_item.xml",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/layout/viewpager_item.xml"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/layout/fragment_planet.xml",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/layout/fragment_planet.xml"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/layout/activity_vk.xml",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/layout/activity_vk.xml"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/layout/ac_image_grid_insta.xml",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/layout/ac_image_grid_insta.xml"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/layout/addressform_pay.xml",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/layout/addressform_pay.xml"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/layout/circle_layout.xml",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/layout/circle_layout.xml"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/layout/fb_albums.xml",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/layout/fb_albums.xml"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/layout/login.xml",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/layout/login.xml"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/layout/viewpager_main.xml",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/layout/viewpager_main.xml"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/layout/payment_selection.xml",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/layout/payment_selection.xml"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/layout/fb_login.xml",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/layout/fb_login.xml"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/layout/image_sizes.xml",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/layout/image_sizes.xml"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/layout/fragment_sizes.xml",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/layout/fragment_sizes.xml"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/layout/addressform.xml",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/layout/addressform.xml"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/layout/user_profile.xml",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/layout/user_profile.xml"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/layout/order_history_listview.xml",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/layout/order_history_listview.xml"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/layout/details_list.xml",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/layout/details_list.xml"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/layout/activity_tutorial.xml",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/layout/activity_tutorial.xml"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/layout/fb_gallery.xml",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/layout/fb_gallery.xml"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/layout/activity_insta.xml",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/layout/activity_insta.xml"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/layout/row_multiphoto_item.xml",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/layout/row_multiphoto_item.xml"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/layout/image_bg.xml",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/layout/image_bg.xml"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/layout/order_history_specifications.xml",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/layout/order_history_specifications.xml"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/layout/activity_about.xml",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/layout/activity_about.xml"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/layout/success.xml",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/layout/success.xml"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/layout/details.xml",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/layout/details.xml"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/layout/login_red.xml",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/layout/login_red.xml"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/layout/ac_image_grid_vk.xml",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/layout/ac_image_grid_vk.xml"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/layout/ac_image_grid.xml",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/layout/ac_image_grid.xml"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/layout/social_selection.xml",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/layout/social_selection.xml"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/layout/image_details.xml",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/layout/image_details.xml"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/layout/welcome.xml",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/layout/welcome.xml"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/layout/user_registration.xml",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/layout/user_registration.xml"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/layout/dashboard.xml",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/layout/dashboard.xml"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/layout/activity_user.xml",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/layout/activity_user.xml"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/layout/register.xml",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/layout/register.xml"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/layout/activity_edit_profile.xml",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/layout/activity_edit_profile.xml"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/layout/pages.xml",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/layout/pages.xml"
+    },
+    {
+        "merged": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/build/intermediates/res/merged/debug/layout/titlebar.xml",
+        "source": "/Users/innerglowitsolutions/PopDeemTest/photoprint_v1_1/src/main/res/layout/titlebar.xml"
+    }
+]

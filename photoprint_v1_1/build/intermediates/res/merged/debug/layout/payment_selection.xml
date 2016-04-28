@@ -1,0 +1,37 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical" android:background="@drawable/image">
+
+    <Button
+            android:layout_width="220dip"
+            android:layout_height="36dip"
+            android:id="@+id/btnPrintFree"
+            android:background="@drawable/btn_free"
+            android:layout_alignLeft="@+id/btnPrintPay"
+            android:layout_alignStart="@+id/btnPrintPay"
+            android:layout_marginTop="141dp" android:text="@string/btn_printforfree" style="@style/btn"/>
+    <Button
+            android:layout_width="220dip"
+            android:layout_height="36dip"
+            android:id="@+id/btnPrintPay"
+            android:layout_below="@+id/btnPrintFree"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/btn_pay"
+            android:layout_marginTop="50dip" android:text="@string/btn_printandpay" style="@style/btn"/>
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/ads"
+            android:id="@+id/textView" android:layout_below="@+id/btnPrintPay" android:layout_centerHorizontal="true"
+            android:textColor="@color/white" android:textSize="15sp" android:layout_marginTop="15dip"/>
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:autoLink="web"
+            android:text="@string/client_link"
+            android:id="@+id/textCopyRight" android:layout_below="@+id/btnPrintPay" android:layout_centerHorizontal="true"
+            android:textSize="17sp" android:layout_marginTop="225dip" android:textColor="#FF38A8CE"/>
+
+
+</RelativeLayout>

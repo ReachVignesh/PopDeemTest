@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="jsoft.projects.photoclick"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="19" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" >
+    </uses-permission>
+
+    <application
+        android:name="util.DpsControlApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:theme="@style/Theme.Dark" >
+        <activity
+            android:name="jsoft.projects.photoclick.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="jsoft.projects.photoclick.Dashboard"
+            android:label="@string/photos" >
+            <intent-filter>
+                <action android:name="android.intent.action.DASHBOARD" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="jsoft.projects.photoclick.Details"
+            android:configChanges="orientation"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" >
+            <intent-filter>
+                <action android:name="android.intent.action.DETAILS" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="jsoft.projects.photoclick.DetailsInstagram"
+            android:configChanges="orientation"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" >
+            <intent-filter>
+                <action android:name="android.intent.action.DETAILS" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="jsoft.projects.photoclick.DetailsVk"
+            android:configChanges="orientation"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" >
+            <intent-filter>
+                <action android:name="android.intent.action.DETAILS" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="jsoft.projects.photoclick.DetailsFb"
+            android:configChanges="orientation"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" >
+            <intent-filter>
+                <action android:name="android.intent.action.DETAILS" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="jsoft.projects.photoclick.Login"
+            android:configChanges="orientation"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" >
+            <intent-filter>
+                <action android:name="android.intent.action.LOGIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="jsoft.projects.photoclick.LoginActivity"
+            android:configChanges="orientation"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" >
+            <intent-filter>
+                <action android:name="android.intent.action.LOGINACTIVITY" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="jsoft.projects.photoclick.ForgotPwdActivity"
+            android:configChanges="orientation"
+            android:label="Password Reset"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" >
+            <intent-filter>
+                <action android:name="android.intent.action.FORGOTPWDACTIVITY" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <!-- <activity -->
+        <!-- android:name="jsoft.projects.photoprint_v1_1.Gallery" -->
+        <!-- android:label="@string/app_name" > -->
+        <!-- <intent-filter> -->
+        <!-- <action android:name="android.intent.action.GALLERY" /> -->
+
+
+        <!-- <category android:name="android.intent.category.DEFAULT" /> -->
+        <!-- </intent-filter> -->
+        <!-- </activity> -->
+        <!--  -->
+        <activity
+            android:name="jsoft.projects.photoclick.OrderHistory"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.ORDERHISTORY" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <!--
+         <activity
+             android:name="jsoft.projects.photoprint_v1_1.MyGalleryFragment"
+             android:label="@string/app_name" >
+             <intent-filter>
+                 <action android:name="android.intent.action.MYGALLERY" />
+
+                 <category android:name="android.intent.category.DEFAULT" />
+             </intent-filter>
+         </activity>
+        -->
+
+        <activity
+            android:name="jsoft.projects.photoclick.UserRegistration"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.USERREGISTRATION" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="jsoft.projects.photoclick.RegisterActivity"
+            android:configChanges="orientation"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" >
+            <intent-filter>
+                <action android:name="android.intent.action.REGISTERACTIVITY" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <!-- <activity -->
+        <!-- android:name="jsoft.projects.photoprint_v1_1.FullScreenViewActivity" -->
+        <!-- android:label="@string/app_name"> -->
+        <!--  -->
+        <!-- <intent-filter> -->
+        <!-- <action android:name="android.intent.action.FULLSCREENVIEWACTIVITY" /> -->
+
+
+        <!-- <category android:name="android.intent.category.DEFAULT" /> -->
+        <!-- </intent-filter> -->
+        <!-- </activity> -->
+
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/application_id" />
+
+        <activity
+            android:name="jsoft.projects.photoclick.FbLogin"
+            android:configChanges="orientation"
+            android:label="Facebook"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" >
+            <intent-filter>
+                <action android:name="android.intent.action.FBLOGIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.facebook.LoginActivity"
+            android:configChanges="orientation"
+            android:label="Facebook"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" >
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="jsoft.projects.photoclick.FbGallery"
+            android:configChanges="orientation"
+            android:label="@string/albums"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="jsoft.projects.photoclick.FbPhotos"
+            android:label="@string/photos" >
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="jsoft.projects.photoclick.vk.WelcomeActivity" />
+        <activity android:name="jsoft.projects.photoclick.vk.EditActivity" />
+        <activity
+            android:name="jsoft.projects.photoclick.vk.LoginActivity"
+            android:configChanges="orientation"
+            android:label="@string/Vk"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="jsoft.projects.photoclick.vk.VKActivity"
+            android:configChanges="orientation"
+            android:label="@string/photos"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="jsoft.projects.photoclick.AddressPayActivity"
+            android:configChanges="orientation"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="jsoft.projects.photoclick.AddressActivity"
+            android:configChanges="orientation"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="jsoft.projects.photoclick.WelcomeActivity"
+            android:configChanges="orientation"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="jsoft.projects.photoclick.AboutActivity"
+            android:configChanges="orientation"
+            android:label="@string/about_title"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="jsoft.projects.photoclick.PaymentSelection"
+            android:configChanges="orientation"
+            android:label="@string/payment_method"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="jsoft.projects.photoclick.PaymentSelectionFB"
+            android:configChanges="orientation"
+            android:label="@string/payment_method"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="jsoft.projects.photoclick.PaymentSelectionVk"
+            android:configChanges="orientation"
+            android:label="@string/payment_method"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="jsoft.projects.photoclick.PaymentSelectionInsta"
+            android:configChanges="orientation"
+            android:label="@string/payment_method"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="jsoft.projects.photoclick.SocialSelection"
+            android:configChanges="orientation"
+            android:label="@string/select_sn"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="jsoft.projects.photoclick.SuccessActivity"
+            android:configChanges="orientation"
+            android:label="@string/confirm"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="jsoft.projects.photoclick.instagram.LoginInsta"
+            android:configChanges="orientation"
+            android:label="Instagram"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="jsoft.projects.photoclick.instagram.InstagramActivity"
+            android:configChanges="orientation"
+            android:label="@string/photos"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="jsoft.projects.photoclick.TutorialActivity"
+            android:configChanges="orientation"
+            android:label="Tutorial"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="jsoft.projects.photoclick.TutorialViewPager"
+            android:configChanges="orientation"
+            android:label="Tutorial"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="jsoft.projects.photoclick.library.CircleViewFlowExample"
+            android:configChanges="orientation"
+            android:label="Tutorial"
+            android:screenOrientation="portrait" >
+        </activity>
+        CircleViewFlowExample
+    </application>
+
+</manifest>
